@@ -1,4 +1,4 @@
- <!-- Begin
+
     var xPos = document.body.clientWidth-20;
     var yPos = document.body.clientHeight/2;
     var step = 2;
@@ -58,4 +58,4 @@
     img.onmouseout = function() {
         interval = setInterval('changePos()', delay);
     }
-    //  End -->
+  
