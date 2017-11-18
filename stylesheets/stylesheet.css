@@ -37,7 +37,7 @@ a {
 .btn2 {
   display: inline-block;
   margin-bottom: 1rem;
-  margin-left: 1rem;
+  margin-left: 0.5rem;
   color:#8FBC8F;
   background-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
