@@ -53,19 +53,6 @@ a {
       margin-top: 1rem;
       margin-left: 0; } }
 
- .image123{ 
-        
-        width:420px; 
-        height:100%; 
-        border-radius:100%; 
-    }
-.image234{
-  
-  width:120px;
-  height:100%;
-  border-radius:100%;
-}
-
 .page-header {
   color: #fff;
   text-align: center;
@@ -217,3 +204,18 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+.image123{ 
+        
+        width:420px; 
+        height:100%; 
+        border-radius:100%; 
+    }
+.image234{
+  
+  width:120px;
+  height:100%;
+  border-radius:100%;
+}
+.link{
+  background-color: #00868B；
+ }
