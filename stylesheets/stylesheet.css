@@ -44,6 +44,11 @@ a {
   border-width: 1px;
   border-radius: 0.3rem;
   transition:color 0.2s, background-color 0.2s, border-color 0.2s;}
+
+.btn3 {
+  border-width:1px;
+  border-color:#8FBC8F;
+}
   
   
 @media screen and (min-width: 64em) {
