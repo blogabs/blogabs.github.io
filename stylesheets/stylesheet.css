@@ -200,6 +200,7 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
 .image123{ 
         
         width:420px; 
@@ -211,5 +212,13 @@ a {
   width:120px;
   height:100%;
   border-radius:100%;
+}
+
+.title01{
+  width:120px;
+  height:48px;
+  background-color:#ffffff;
+  border:#159957;
+  border-radius:80%;
 }
 
