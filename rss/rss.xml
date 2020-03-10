@@ -8,6 +8,12 @@
   <link>http://blogabs.cc</link> 
   <description>BLogabs主页，庄泽峰创建！</description> 
 
+ <item> 
+    <title>text推送</title> 
+    <link>http://blogabs.cc/index.html</link> 
+    <description>推送text from blogabs.</description> 
+  </item> 
+
   <item> 
     <title>BLogabs</title> 
     <link>http://blogabs.cc/index.html</link> 
